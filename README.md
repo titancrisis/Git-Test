@@ -19,7 +19,7 @@ O incluir el nombre del lenguage de programación:
 // Esto sería código Javascript
 ```
  
-*Esto es un texto en cursiva, que también incluye otro ** en el propio texto*
+*Esto es un texto en cursiva, que también incluye otro **en el propio texto***
  
 **Esto está en negrita**
  
