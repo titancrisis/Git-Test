@@ -1,11 +1,11 @@
-#EJEMPLO DE README.md
+# EJEMPLO DE README.md
  
-###Esto es un ejemplo de README.md
+### Esto es un ejemplo de README.md
  
 Se pueden crear ficheros .md para:
-* proyectos en GitHub
-* documentación general
-* otros proyectos
+* Proyectos en GitHub.
+* Documentación general.
+* Otros proyectos.
  
 Un fichero .md puede incluir:
 1. Enlaces
