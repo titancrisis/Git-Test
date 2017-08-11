@@ -1,6 +1,6 @@
 # EJEMPLO DE README.md
  
-### Esto es un ejemplo de README.md
+### Esto es un ejemplo para README.md
  
 Se pueden crear ficheros .md para:
 * Proyectos en GitHub.
@@ -13,14 +13,13 @@ Un fichero .md puede incluir:
 3. Encabezados
 4. Etc.
  
-Una de las cosas que podemos incluir es código:
-`<?php echo "Hola Mundo"; ?>`
+Una de las cosas que podemos incluir es código: `<?php echo "Hola Mundo"; ?>`
 O incluir el nombre del lenguage de programación:
 ```[javascript]
 // Esto sería código Javascript
 ```
  
-*Esto es un texto en cursiva, que también incluye otro ** en el propio texto **
+*Esto es un texto en cursiva, que también incluye otro ** en el propio texto*
  
 **Esto está en negrita**
  
